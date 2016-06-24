@@ -1,0 +1,6 @@
+maven/target
+build/
+.gradle/
+.idea/
+gradle
+maven/demo
